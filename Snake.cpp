@@ -135,6 +135,7 @@ void logic()
 
       if(x==fruitX && y== fruitY)
       {
+          cout<<"\a";
           score+=10;
           fruitX=rand()%width;
           fruitY=rand()%height;
