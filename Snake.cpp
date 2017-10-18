@@ -1,4 +1,4 @@
-//A simple Snake game made by C++
+//A simple Snake game made using C++
 //Bobby Gurudas Patil
 //National Institute of Technology , Karnataka
 //Department of computer science and engineering
